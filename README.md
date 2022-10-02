@@ -1,11 +1,11 @@
-# Module 10 Application
-## Unsupervised Learning
-## Challenge: Crypto Clustering
+# Unsupervised Learning
+## Crypto Clustering
+![image](https://user-images.githubusercontent.com/107276527/193440188-5b89e9f2-a0b1-4538-9afd-ed6aee595d75.png)
 
-In this Challenge, you’ll combine your financial Python programming skills with the new unsupervised learning skills that you acquired in this module.
+We're combining our Python programming skills with AI, ML, and unsupervised learning to find patterns in data.
 
+Run the Jupyter Notebook file using Jupyter Labs (or your favorite IDE).
 The CSV file provided for this challenge contains price change data of cryptocurrencies in different periods.
-
 The steps for this challenge are broken out into the following sections:
 
 * Import the Data (provided in the starter code)
